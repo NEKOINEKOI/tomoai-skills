@@ -4,7 +4,7 @@
 
 #### 自媒体创作者自己每天在用的 AI Skill 合集
 
-[![License](https://img.shields.io/badge/License-MIT-3B82F6?style=for-the-badge)](./LICENSE)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-16A34A.svg?style=flat-square)](./LICENSE)
 [![Skills](https://img.shields.io/badge/Skills-2-10B981?style=for-the-badge)](#-skills)
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-D97706?style=flat-square&logo=anthropic&logoColor=white)
@@ -55,15 +55,23 @@ Agent 会自己 clone 到对应目录，不用你操心路径。
 
 ## 🌟 关于
 
-我是 TOMOAI，做 AI 自媒体内容，做 AI 工具，也做潮玩品牌 monada。
+我是 TOMOAI，一个做 AI 自媒体的博主，写公众号「智井AI」，专注 AI 工具测评和实战方法论。
 
-这些 skill 都是我自己每天在用的。开源出来如果对你有帮助，给个 ⭐ 就行。
+这些 skill 都是我自己每天在用的。开源出来如果对你有帮助，给个 ⭐ 就行，也欢迎来公众号聊聊。
+
+<div align="center">
+
+**扫码关注公众号「智井AI」**
+
+<img src="./docs/zhijing-ai-qrcode.png" alt="智井AI 公众号二维码" width="240" />
+
+</div>
 
 ---
 
 <div align="center">
 
-MIT License · 自由使用 / 修改 / 再分发
+CC BY-NC 4.0 · 自由使用 / 修改 / 分享，禁止商用
 
 Made by [@NEKOINEKOI](https://github.com/NEKOINEKOI)
 
