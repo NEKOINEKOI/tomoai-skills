@@ -5,7 +5,7 @@
 #### 自媒体创作者自己每天在用的 AI Skill 合集
 
 [![License](https://img.shields.io/badge/License-MIT-3B82F6?style=for-the-badge)](./LICENSE)
-[![Skills](https://img.shields.io/badge/Skills-1-10B981?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-2-10B981?style=for-the-badge)](#-skills)
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-Skill-10B981?style=flat-square&logo=openai&logoColor=white)
@@ -27,6 +27,7 @@
 | 名字 | 一句话 | 链接 |
 |---|---|---|
 | ✍️ [**tomoai-aiheadline**](./skills/tomoai-aiheadline) | 微信公众号爆款标题生成器：10 步流水线严格走完，9000+ 条真实爆款对标提炼的两流派模型 | [查看](./skills/tomoai-aiheadline/SKILL.md) |
+| 🎬 [**tomoai-subtitle-extract**](./skills/tomoai-subtitle-extract) | 视频字幕提取 + 中文「本地化改写」（不是翻译）：faster-whisper 转写 + 九条改写规则 + 单行字幕排版 | [查看](./skills/tomoai-subtitle-extract/SKILL.md) |
 
 > 后续会陆续加入视频导演、带货视频、AIGC 检测、中文去 AI 味等方向。
 
@@ -38,6 +39,10 @@
 
 ```
 帮我安装这个 skill：https://github.com/NEKOINEKOI/tomoai-skills/tree/main/skills/tomoai-aiheadline
+```
+
+```
+帮我安装这个 skill：https://github.com/NEKOINEKOI/tomoai-skills/tree/main/skills/tomoai-subtitle-extract
 ```
 
 Agent 会自己 clone 到对应目录，不用你操心路径。
